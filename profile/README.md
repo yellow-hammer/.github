@@ -6,7 +6,12 @@
 
 ## Назначение
 
-- Хранение документации по разработке около "1С: Предприятие 8".
+- Хранение [документации по разработке](https://yellow-hammer.github.io/dev-rules/) около "1С: Предприятие 8".
+- 1C Platform Tools: [MarketPlace](https://marketplace.visualstudio.com/items?itemName=yellow-hammer.1c-platform-tools), [GitHub](https://github.com/yellow-hammer/vscode-1c-platform-tools)
+- Prometheus OScript
+  `opm install prometheus`
+  `opm install prometheus-metrics`
+- Prometheus e1c: [GitHub](https://github.com/yellow-hammer/prometheus-e1c)
 - Полезные инструменты etc
 
 При желании, отблагодарить автора можно по ссылке:
