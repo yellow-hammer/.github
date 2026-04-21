@@ -8,6 +8,7 @@
 
 - Хранение [документации по разработке](https://yellow-hammer.github.io/dev-rules/) около "1С: Предприятие 8".
 - 1C Platform Tools: [MarketPlace](https://marketplace.visualstudio.com/items?itemName=yellow-hammer.1c-platform-tools), [GitHub](https://github.com/yellow-hammer/vscode-1c-platform-tools)
+- MD-Sparrow: чтение и запись объектов метаданных в designer-xml [GitHub](https://github.com/yellow-hammer/md-sparrow)
 - Prometheus OScript
   `opm install prometheus`
   `opm install prometheus-metrics`
