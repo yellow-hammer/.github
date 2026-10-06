@@ -24,25 +24,26 @@
 
 ## OneScript
 
+- [prometheus](https://github.com/yellow-hammer/prometheus) — клиент Prometheus: счётчики, гистограммы, лейблы и текстовый формат, без HTTP
+- [prometheus-metrics](https://github.com/yellow-hammer/prometheus-metrics) — эндпоинт `GET /metrics` на Autumn и Winow
+- [winow-view](https://github.com/yellow-hammer/winow-view) — фронт для Winow без сборщика: htmx, Alpine.js, фрагменты JinjOS, CSRF
+- [openfeature](https://github.com/yellow-hammer/openfeature) — API фича-флагов: клиент, провайдеры и контекст оценки
+- [autumn-openfeature](https://github.com/yellow-hammer/autumn-openfeature) — клиент OpenFeature как желудь Autumn, провайдер из настроек
+- [bucketer](https://github.com/yellow-hammer/bucketer) — процентные выкатки и выбор по весам через MurmurHash3
+- [sse](https://github.com/yellow-hammer/sse) — поток `text/event-stream` и клиент с переподключением по `Last-Event-ID`
+- [cloudevents](https://github.com/yellow-hammer/cloudevents) — конверт события: JSON и HTTP-биндинги
+- [problem-details](https://github.com/yellow-hammer/problem-details) — тело HTTP-ошибки `application/problem+json`
+- [jwt](https://github.com/yellow-hammer/jwt) — JWT HS256/HS384/HS512 и HMAC по RFC 2104
+- [jsonschema](https://github.com/yellow-hammer/jsonschema) — проверка значений по JSON Schema draft-07
+- [dotenv](https://github.com/yellow-hammer/dotenv) — переменные из `.env`: кавычки, комментарии и подстановка
+- [ulid](https://github.com/yellow-hammer/ulid) — сортируемые по времени 128-битные идентификаторы
+
+## Навыки
+
 - [skills-onescript](https://github.com/yellow-hammer/skills-onescript) — Agent Skills для OneScript, Autumn и Winow
-- [prometheus](https://github.com/yellow-hammer/prometheus) · [prometheus-metrics](https://github.com/yellow-hammer/prometheus-metrics) — клиент Prometheus и эндпоинт `/metrics`: `opm install prometheus`, `opm install prometheus-metrics`
-
-<details>
-<summary>Библиотеки</summary>
-
-[openfeature](https://github.com/yellow-hammer/openfeature) ·
-[autumn-openfeature](https://github.com/yellow-hammer/autumn-openfeature) ·
-[bucketer](https://github.com/yellow-hammer/bucketer) ·
-[jwt](https://github.com/yellow-hammer/jwt) ·
-[jsonschema](https://github.com/yellow-hammer/jsonschema) ·
-[sse](https://github.com/yellow-hammer/sse) ·
-[cloudevents](https://github.com/yellow-hammer/cloudevents) ·
-[problem-details](https://github.com/yellow-hammer/problem-details) ·
-[ulid](https://github.com/yellow-hammer/ulid) ·
-[dotenv](https://github.com/yellow-hammer/dotenv) ·
-[winow-view](https://github.com/yellow-hammer/winow-view)
-
-</details>
+- [skills-vanessa-automation](https://github.com/yellow-hammer/skills-vanessa-automation) — Agent Skills для сценариев Vanessa Automation: фичи Gherkin
+- [skills-xunit](https://github.com/yellow-hammer/skills-xunit) — Agent Skills для тестов Vanessa-ADD (xUnit)
+- [skills-yaxunit](https://github.com/yellow-hammer/skills-yaxunit) — Agent Skills для модульных тестов YAxUnit
 
 ## Для души
 
