@@ -27,6 +27,7 @@
 - [prometheus](https://github.com/yellow-hammer/prometheus) — клиент Prometheus: счётчики, гистограммы, лейблы и текстовый формат, без HTTP
 - [prometheus-metrics](https://github.com/yellow-hammer/prometheus-metrics) — эндпоинт `GET /metrics` на Autumn и Winow
 - [winow-view](https://github.com/yellow-hammer/winow-view) — фронт для Winow без сборщика: htmx, Alpine.js, фрагменты JinjOS, CSRF
+- [n8n-nodes-onescript](https://github.com/yellow-hammer/n8n-nodes-onescript) — community-нода n8n: выполняет код OneScript через CLI `oscript` · [npm](https://www.npmjs.com/package/n8n-nodes-onescript)
 - [openfeature](https://github.com/yellow-hammer/openfeature) — API фича-флагов: клиент, провайдеры и контекст оценки
 - [autumn-openfeature](https://github.com/yellow-hammer/autumn-openfeature) — клиент OpenFeature как желудь Autumn, провайдер из настроек
 - [bucketer](https://github.com/yellow-hammer/bucketer) — процентные выкатки и выбор по весам через MurmurHash3
